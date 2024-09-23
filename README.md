@@ -1,8 +1,8 @@
-# [Start Bootstrap - Clean Blog Jekyll](https://startbootstrap.com/themes/clean-blog-jekyll/) - Official Jekyll Version
+# Data Analytics - My Portfolio
 
-[Clean Blog Jekyll](https://startbootstrap.com/themes/clean-blog-jekyll/) is a stylish, responsive blog theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a blog homepage, about page, contact page, and an example post page along with a working contact form powered by [Formspree](https://formspree.io/).
+This is a test portfolio for something more to come. Sic mundus creatus est.
 
-This repository holds the official Jekyll version of the Clean Blog theme on Start Bootstrap!
+This repository holds the official portfolio of HM the 3rd!
 
 ## Preview
 
